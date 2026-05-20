@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paul C.
+# Hi there 👋 I'm Paul
 
 **Open-source builder focused on LLM workflows, DevOps automation, and AI-assisted developer tools**
 
@@ -48,11 +48,11 @@ I build tools that help developers work faster and more reliably with LLMs like 
 
 ---
 
-## 🌍 Projects & Websites
+## 🌍 Websites
 
-- **Cavalier Studios** — [cavalier-studios.fr](https://cavalier-studios.fr)
-- **Plume** — [plume.africa](https://plume.africa)
-- **CV Scope** — [cv-scope.com](https://cv-scope.com)
+- **Cavalier Studios** : portfolio — [cavalier-studios.fr](https://cavalier-studios.fr)
+- **Plume Africa** : the first instant Safari packaging & booking engine for Namibia and South Africa ! — [plume.africa](https://plume.africa)
+- **CV Scope** : Ai powered job hunt & application engine — [cv-scope.com](https://cv-scope.com)
 
 ---
 
@@ -76,7 +76,9 @@ I build tools that help developers work faster and more reliably with LLMs like 
 
 ## 🌍 Background
 
-Former international cooperation officer, now building tools that turn **AI and code into practical systems for collective efficiency**.
+PhD Applied Physics (CEA / Université de Grenoble) · Postdoc UCT Cape Town  
+Former Cooperation Attaché, French Embassy South Africa  
+Now building AI-native dev tooling and data products that turn **AI and code into practical systems for collective efficiency** — France 🇫🇷 / Namibia 🇳🇦 / Thailand 🇹🇭 
 
 ---
 
