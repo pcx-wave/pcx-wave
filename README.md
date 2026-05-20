@@ -1,49 +1,83 @@
 # Hi there 👋 I'm Paul C.
 
-**Builder of open-source LLM tools | DevOps & AI Workflow Automation**
+**Open-source builder focused on LLM workflows, DevOps automation, and AI-assisted developer tools**
 
-I design **open-source tools** to supercharge developer productivity with LLMs (Mistral, Claude, Gemini). My work focuses on automating repetitive tasks—code supervision, request routing, and skill maintenance—while bridging the gap between AI and human workflows.
+I build tools that help developers work faster and more reliably with LLMs like **Mistral, Claude, and Gemini**. My work focuses on **automation, code supervision, request routing, and maintainable AI workflows** that improve collaboration between humans and AI systems.
 
 ---
 
-### 🔧 **Core Skills**
+## 🚀 What I’m Building
+
+- Open-source tools for **LLM-assisted development**
+- Automation for **Claude Code and CLI-based AI workflows**
+- **Autonomous agents** running on Raspberry Pi
+- Benchmarking and evaluation with **OpenClaw**
+- Products for **AI-human collaboration**, publishing, and SME automation
+
+---
+
+## 🔧 Core Skills
+
 - **LLM Integration**: Mistral Vibe, Claude, Gemini CLI, prompt engineering, token optimization
-- **Automation**: Shell/Python scripting, Git workflows, custom skills for Claude Code
-- **DevOps**: Local deployment (Raspberry Pi), benchmarking (OpenClaw), autonomous agents
-- **Web Development**: Full-stack projects (portfolio, Jobsmatch, Plume), business logic, page generation
-- **Project Management**: International cooperation, database mapping (Notion), ecosystem analysis
+- **Automation**: Shell scripting, Python, Git workflows, custom developer tooling
+- **DevOps**: Raspberry Pi deployment, local infrastructure, autonomous agents, benchmarking
+- **Web Development**: Full-stack applications, business logic, dynamic page generation
+- **Project & Systems Thinking**: ecosystem analysis, international cooperation, structured knowledge workflows
 
 ---
 
-### 🚀 **Featured Projects**
+## 🌟 Featured Projects
 
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| **[vibe-skill](https://github.com/pcx-wave/vibe-skill)** | Claude Code skill to delegate coding tasks to Mistral Vibe and supervise via `git diff` | ⭐ 25 | Shell |
-| **[skill-router](https://github.com/pcx-wave/skill-router)** | Meta-skill for Claude Code: routes requests to the right installed skill (suggest mode or silent auto-routing) | ⭐ 14 | Shell |
-| **[update-skills](https://github.com/pcx-wave/update-skills)** | Keep all your custom Claude Code skills up-to-date | ⭐ 13 | Python |
-| **[askclaude](https://github.com/pcx-wave/askclaude)** | Ask Claude anything from any CLI—plan, review, reflect | ⭐ 4 | Shell |
-| **[gemini-skill](https://github.com/pcx-wave/gemini-skill)** | Claude Code skill to delegate tasks to Gemini CLI and supervise via `git diff` | ⭐ 1 | Shell |
-
----
-
-### 🛠 **Current Focus**
-- **Benchmarking LLMs** with OpenClaw
-- **Autonomous agent deployment** on Raspberry Pi 4
-- **Marketplace for AI-human collaboration** (Cavalier Studios)
-- **Automated website scanning** for SMEs (auditpros)
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[vibe-skill](https://github.com/pcx-wave/vibe-skill)** | Claude Code skill for delegating coding tasks to Mistral Vibe and reviewing results with `git diff` | Shell |
+| **[skill-router](https://github.com/pcx-wave/skill-router)** | Meta-skill for Claude Code that routes requests to the most relevant installed skill | Shell |
+| **[update-skills](https://github.com/pcx-wave/update-skills)** | Utility for keeping custom Claude Code skills synchronized and up to date | Python |
+| **[askclaude](https://github.com/pcx-wave/askclaude)** | CLI interface to ask Claude to plan, review, and reflect from the terminal | Shell |
+| **[gemini-skill](https://github.com/pcx-wave/gemini-skill)** | Claude Code skill for delegating tasks to Gemini CLI with supervised review | Shell |
 
 ---
 
-### 📫 **Let's Connect**
-- [Portfolio](https://cavalier-studios)
-- [LinkedIn](https://linkedin.com/in/paul-c)
-- [Email](mailto:paul@example.com)
+## 🧪 Current Focus
+
+- Benchmarking LLMs with **OpenClaw**
+- Deploying autonomous agents on **Raspberry Pi 4**
+- Building systems for **AI-human collaboration**
+- Automating **website scanning and audits for SMEs**
+- Exploring product ideas across developer tooling and applied AI
 
 ---
 
-### 🌟 **Fun Fact**
-Former international cooperation officer, now turning **code and AI into tools for collective efficiency**.
+## 🌍 Projects & Websites
+
+- **Cavalier Studios** — [cavalier-studios.fr](https://cavalier-studios.fr)
+- **Plume** — [plume.africa](https://plume.africa)
+- **CV Scope** — [cv-scope.com](https://cv-scope.com)
 
 ---
-**✨ Open to collaborations on LLM workflows, DevOps automation, and edge AI!**
+
+## 🤝 Open to
+
+- Open-source collaborations
+- DevOps and automation consulting
+- LLM workflow design
+- Edge AI experiments
+- Developer tooling partnerships
+
+---
+
+## 📫 Connect With Me
+
+- **Portfolio**: [cavalier-studios.fr](https://cavalier-studios.fr)
+- **LinkedIn**: [linkedin.com/in/paulcavalier](https://linkedin.com/in/paulcavalier)
+- **Email**: [Paul.cavalier@live.fr](mailto:Paul.cavalier@live.fr)
+
+---
+
+## 🌍 Background
+
+Former international cooperation officer, now building tools that turn **AI and code into practical systems for collective efficiency**.
+
+---
+
+_Thanks for stopping by — feel free to explore my projects or reach out if you'd like to collaborate._
