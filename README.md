@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paul
+# Hi 👋 I'm Paul
 
 **Open-source builder focused on LLM workflows, DevOps automation, and AI-assisted developer tools**
 
@@ -68,7 +68,6 @@ I build tools that help developers work faster and more reliably with LLMs like 
 
 ## 📫 Connect With Me
 
-- **Portfolio**: [cavalier-studios.fr](https://cavalier-studios.fr)
 - **LinkedIn**: [linkedin.com/in/paulcavalier](https://linkedin.com/in/paulcavalier)
 - **Email**: [Paul.cavalier@live.fr](mailto:Paul.cavalier@live.fr)
 
