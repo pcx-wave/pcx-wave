@@ -1,84 +1,36 @@
-# Hi 👋 I'm Paul
+# Paul Cavalier
 
-**Open-source builder focused on LLM workflows, DevOps automation, and AI-assisted developer tools**
+[![Cavalier Studios](https://img.shields.io/badge/Cavalier_Studios-portfolio-111827?style=flat-square)](https://cavalier-studios.fr)
+[![Plume Africa](https://img.shields.io/badge/Plume_Africa-plume.africa-c2410c?style=flat-square)](https://plume.africa)
+[![CV Scope](https://img.shields.io/badge/CV_Scope-cv--scope.com-2563eb?style=flat-square)](https://cv-scope.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulcavalier-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulcavalier)
 
-I build tools that help developers work faster and more reliably with LLMs like **Mistral, Claude, and Gemini**. My work focuses on **automation, code supervision, request routing, and maintainable AI workflows** that improve collaboration between humans and AI systems.
+Freelance AI architect and fullstack developer (Cavalier Studios), working between data analysis and applied AI. Based in France.
 
----
+## Research
 
-## 🚀 What I’m Building
+PhD in applied physics (CEA / Université de Grenoble), postdoc at UCT Cape Town, where I also taught optoelectronics. Work on wavelet analysis, entropy methods, optoelectronics and nanoelectronics. 15 peer-reviewed publications, h-index 8. Currently returning to research on signal and potential-field analysis.
 
-- Open-source tools for **LLM-assisted development**
-- Automation for **Claude Code and CLI-based AI workflows**
-- **Autonomous agents** running on Raspberry Pi
-- Benchmarking and evaluation with **OpenClaw**
-- Products for **AI-human collaboration**, publishing, and SME automation
+Before moving to software full time, I was Science & Technology Attaché at the French Embassy in South Africa.
 
----
+## Development
 
-## 🔧 Core Skills
+LLM workflows and tooling around Claude Code, Mistral and Gemini; automation in Shell and Python; fullstack web applications; autonomous agents on Raspberry Pi.
 
-- **LLM Integration**: Mistral Vibe, Claude, Gemini CLI, prompt engineering, token optimization
-- **Automation**: Shell scripting, Python, Git workflows, custom developer tooling
-- **DevOps**: Raspberry Pi deployment, local infrastructure, autonomous agents, benchmarking
-- **Web Development**: Full-stack applications, business logic, dynamic page generation
-- **Project & Systems Thinking**: ecosystem analysis, international cooperation, structured knowledge workflows
+| Project | Description |
+|---------|-------------|
+| [vibe-skill](https://github.com/pcx-wave/vibe-skill) | Claude Code skill that delegates coding tasks to Mistral Vibe and reviews the result with `git diff` |
+| [skill-router](https://github.com/pcx-wave/skill-router) | Claude Code skill that routes a request to the most relevant installed skill |
+| [update-skills](https://github.com/pcx-wave/update-skills) | Keeps custom Claude Code skills in sync |
+| [askclaude](https://github.com/pcx-wave/askclaude) | CLI to ask Claude to plan, review or reflect from the terminal |
+| [gemini-skill](https://github.com/pcx-wave/gemini-skill) | Claude Code skill that delegates tasks to Gemini CLI |
 
----
+## Sites
 
-## 🌟 Featured Projects
+- [cavalier-studios.fr](https://cavalier-studios.fr): portfolio
+- [plume.africa](https://plume.africa): safari booking engine for Namibia and South Africa
+- [cv-scope.com](https://cv-scope.com): AI-powered job search and application tool
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[vibe-skill](https://github.com/pcx-wave/vibe-skill)** | Claude Code skill for delegating coding tasks to Mistral Vibe and reviewing results with `git diff` | Shell |
-| **[skill-router](https://github.com/pcx-wave/skill-router)** | Meta-skill for Claude Code that routes requests to the most relevant installed skill | Shell |
-| **[update-skills](https://github.com/pcx-wave/update-skills)** | Utility for keeping custom Claude Code skills synchronized and up to date | Python |
-| **[askclaude](https://github.com/pcx-wave/askclaude)** | CLI interface to ask Claude to plan, review, and reflect from the terminal | Shell |
-| **[gemini-skill](https://github.com/pcx-wave/gemini-skill)** | Claude Code skill for delegating tasks to Gemini CLI with supervised review | Shell |
+## Contact
 
----
-
-## 🧪 Current Focus
-
-- Benchmarking LLMs with **OpenClaw**
-- Deploying autonomous agents on **Raspberry Pi 4**
-- Building systems for **AI-human collaboration**
-- Automating **website scanning and audits for SMEs**
-- Exploring product ideas across developer tooling and applied AI
-
----
-
-## 🌍 Websites
-
-- **Cavalier Studios** : portfolio — [cavalier-studios.fr](https://cavalier-studios.fr)
-- **Plume Africa** : the first instant Safari packaging & booking engine for Namibia and South Africa ! — [plume.africa](https://plume.africa)
-- **CV Scope** : Ai powered job hunt & application engine — [cv-scope.com](https://cv-scope.com)
-
----
-
-## 🤝 Open to
-
-- Open-source collaborations
-- DevOps and automation consulting
-- LLM workflow design
-- Edge AI experiments
-- Developer tooling partnerships
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn**: [linkedin.com/in/paulcavalier](https://linkedin.com/in/paulcavalier)
-- **Email**: [Paul.cavalier@live.fr](mailto:Paul.cavalier@live.fr)
-
----
-
-## 🌍 Background
-
-PhD Applied Physics (CEA / Université de Grenoble) · Postdoc UCT Cape Town  
-Former Cooperation Attaché, French Embassy South Africa  
-Now building AI-native dev tooling and data products that turn **AI and code into practical systems for collective efficiency** — France 🇫🇷 / Namibia 🇳🇦 / Thailand 🇹🇭 
-
----
-
-_Thanks for stopping by — feel free to explore my projects or reach out if you'd like to collaborate._
+[LinkedIn](https://linkedin.com/in/paulcavalier) · [Paul.cavalier@live.fr](mailto:Paul.cavalier@live.fr)
